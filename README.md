@@ -1,0 +1,2 @@
+# duckdb_analytics_josefin_lesley_mlops25
+Learning duckdb
