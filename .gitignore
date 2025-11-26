@@ -211,6 +211,8 @@ __marimo__/
 *.duckdb
 *.wal
 
+testing_code
+testing_code.sql
 
-
-
+# sqlite
+*.db

@@ -3,6 +3,5 @@ CREATE TABLE
         SELECT
             *
         FROM
-            read_csv_auto ('data/salaries.csv')
+            read_csv_auto ('code_alongs/04_querying/data/salaries.csv')
     );
-
